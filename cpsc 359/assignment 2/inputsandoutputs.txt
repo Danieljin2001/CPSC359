@@ -1,0 +1,20 @@
+Inputs:
+
+- MSB for state: y2
+- middle bit for state: y1
+- LSB for state: y0
+- match: x2
+- zero: x1
+- reset: x0
+
+
+Outputs:
+
+- open: z7
+- clear: z6
+- MSB for state: z5
+- middle bit for state: z4
+- LSB for state: z3  
+- latch 2: z2
+- latch 1: z1
+- latch 0: z0
